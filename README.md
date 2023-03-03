@@ -9,5 +9,7 @@ where a user can signUp, SingIn, reset their password and can post, update, dele
 ER diagram is used for data modeling it indicates how data stored in Database.
 It is the graphical representation of relationship between all the entities
 here i used 
+<br>
+
 <img src="https://user-images.githubusercontent.com/122452175/222637316-21abee74-d70f-4b71-a302-a0d8c0be9657.png" width=50% height=50% alt="ER diagram of blog application">
 
